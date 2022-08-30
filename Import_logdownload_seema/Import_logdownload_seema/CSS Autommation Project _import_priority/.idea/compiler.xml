@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="BlackList" target="1.8" />
+      <module name="Blog" target="1.8" />
+      <module name="Blog_Publisher" target="1.8" />
+      <module name="Business" target="1.8" />
+      <module name="CSS Autommation Project" target="1.8" />
+      <module name="Customer Feedback" target="1.8" />
+      <module name="Dashboard" target="1.8" />
+      <module name="DashboardExperienceApp" target="1.8" />
+      <module name="Data Garden" target="1.8" />
+      <module name="Data_Garden" target="1.8" />
+      <module name="Database" target="1.8" />
+      <module name="Database Menu" target="1.8" />
+      <module name="DatabaseMenu" target="1.8" />
+      <module name="Employee Feedback" target="1.8" />
+      <module name="Employee_Feedback" target="1.8" />
+      <module name="Forms and Checklists" target="1.8" />
+      <module name="Import" target="1.8" />
+      <module name="ImportFile" target="1.8" />
+      <module name="Media_Library" target="1.8" />
+      <module name="Portal" target="1.8" />
+      <module name="Project And Planning" target="1.8" />
+      <module name="UserAndGroups" target="1.8" />
+      <module name="UserAndGroups1" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

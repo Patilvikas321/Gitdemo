@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/datasets/Sample_Excel.xlsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/resources/DemoFile.xlsx" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/resources/ImportColumnHeaders.xlsx" charset="UTF-16" />
+    <file url="file://$PROJECT_DIR$/util_files/Data_Collection.xlsx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/util_files/User Details.xlsx" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Time test Suite">
+
+    <test name="Flow Testing">
+        <classes>
+          <!--  <class name="QuestionnairesPageTest"/>-->
+            <class name="ImportFilePageTest"/>
+           <!-- <class name="Test"/>-->
+            <!--<class name="DatabasePageTest"/>
+            <class name="CollectFeedbackByPersonnelInvitationPageTest"/>
+            <class name="CollectFeedbackByMobileTabletInvitationPageTest"/>
+            <class name="CollectFeedbackByOpenInvitationPageTest"/>
+            <class name="CollectFeedbackByMAndTFormsAndCheckListPageTest"/>-->
+        </classes>
+    </test>
+</suite>

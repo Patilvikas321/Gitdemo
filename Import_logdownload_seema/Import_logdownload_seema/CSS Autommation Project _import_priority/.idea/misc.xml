@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/Database_Menu/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/BlackList/pom.xml" />
+        <option value="$PROJECT_DIR$/Blog/pom.xml" />
+        <option value="$PROJECT_DIR$/Blog_Publisher/pom.xml" />
+        <option value="$PROJECT_DIR$/Business/pom.xml" />
+        <option value="$PROJECT_DIR$/Customer Feedback/pom.xml" />
+        <option value="$PROJECT_DIR$/Dashboard/pom.xml" />
+        <option value="$PROJECT_DIR$/DashboardExperienceApp/pom.xml" />
+        <option value="$PROJECT_DIR$/Data Collection/pom.xml" />
+        <option value="$PROJECT_DIR$/Data Garden/pom.xml" />
+        <option value="$PROJECT_DIR$/Database Menu/pom.xml" />
+        <option value="$PROJECT_DIR$/Database/pom.xml" />
+        <option value="$PROJECT_DIR$/DatabaseMenu/pom.xml" />
+        <option value="$PROJECT_DIR$/Employee_Feedback/pom.xml" />
+        <option value="$PROJECT_DIR$/Forms and Checklists/pom.xml" />
+        <option value="$PROJECT_DIR$/Import/pom.xml" />
+        <option value="$PROJECT_DIR$/ImportFile/pom.xml" />
+        <option value="$PROJECT_DIR$/Media_Library/pom.xml" />
+        <option value="$PROJECT_DIR$/Project And Planning/pom.xml" />
+        <option value="$PROJECT_DIR$/UserAndGroups/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" project-jdk-name="openjdk-17" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
