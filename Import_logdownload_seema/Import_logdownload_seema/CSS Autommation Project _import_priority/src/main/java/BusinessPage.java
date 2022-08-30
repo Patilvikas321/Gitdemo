@@ -16,5 +16,7 @@ public class BusinessPage extends BasePage{
         click(lnkBusiness);
         return lnkBusiness.isDisplayed();
         //comment out vikas
+        //commment by deepali
+        //comment by vaibhav
     }
 }
