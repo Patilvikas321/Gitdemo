@@ -43,7 +43,24 @@ public class ArchivePageTest extends BasePageTest{
     @Test(priority = 3)
     public void verifyBackClick() throws InterruptedException {
         Assert.assertTrue(archivePage.clickOnBack());
+        
+        
+        //vikas patil
+        
+        @Test(priority = 4)
+        public void verifyBackClick() throws InterruptedException {
+            Assert.assertTrue(archivePage.clickOnBack());
+        
     }
 
+    @Test(priority=4)
+    public void verifyBackclick2() throws InterruptedException {
+        Assert.assertTrue(archivePage.clickOnBack());
+    }
+    @Test(priority=5)
+    public void verifyBackclick3() throws InterruptedException {
+        Assert.assertTrue(archivePage.clickOnBack());
+    }
+       //comment by vikas
 
 }
