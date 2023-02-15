@@ -7,7 +7,7 @@ public class CollectFeedbackByMobileTabletInvitationPageTest extends BasePageTes
     CollectFeedbackByMobileTabletInvitationPage mobileTableInvitationPage;
     LoginPage loginPage;
     CreateProjectInCustomerFeedbackPage createProject;
-
+//
     @BeforeClass
     public void inItObject(){
         loginPage=new LoginPage(getDriver());
