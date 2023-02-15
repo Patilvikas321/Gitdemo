@@ -42,7 +42,7 @@ public class BasePageTest {
     public void init() {
         System.out.println(CONFIG_PATH);
         prop = loadProperties();
-
+//
 
         // If user want to use headless browser to execution the script the activate the below script
 /*
